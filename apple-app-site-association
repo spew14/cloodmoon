@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "87W8APWXM4.com.cloudmoonapp.cloudmoon",
+                "paths": [
+                    "/*",
+                    "/game/*"
+                ]
+            }
+        ]
+    }
+}
